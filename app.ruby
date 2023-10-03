@@ -26,9 +26,9 @@ def caesar_cipher (string, shift_factor)
             new_string += ascii.chr
         end
     end
-    puts new_string
+    return new_string
 end
     
     
 
-puts caesar_cipher('XYZabzy', 2)
+# puts caesar_cipher('XYZabzy', 2)
