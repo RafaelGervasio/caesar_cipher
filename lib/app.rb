@@ -31,4 +31,4 @@ end
     
     
 
-# puts caesar_cipher('XYZabzy', 2)
+puts caesar_cipher('XYZabzy', 2)
